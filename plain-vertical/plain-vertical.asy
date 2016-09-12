@@ -23,8 +23,8 @@ bool split=false;             // Split a page in two.
 
 pair page=A4;                 // Select page (A4, A5, B4, B5 or USletter).
 bool landscape=false;         // Landscape mode.
-real pagehmargin=1.0;         // Minimum horizontal margin in cm.
-real pagevmargin=1.0;         // Minimum vertical margin in cm.
+real pagehmargin=2.0;         // Minimum horizontal margin in cm.
+real pagevmargin=3.0;         // Minimum vertical margin in cm.
 
 real kanjiboxsize=1.2;        // The size of the kanjibox in cm.
 real kanjiboxhmargin=0.4;     // Horizontal margin between kanjiboxes in cm.
